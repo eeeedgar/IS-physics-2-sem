@@ -1,0 +1,3 @@
+C:/repos/physics/model_2/cmake-build-debug/CMakeFiles/model_2.dir
+C:/repos/physics/model_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/repos/physics/model_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
